@@ -26,6 +26,25 @@
       ]
     },
     {
+      "name" : "Hui Govno",
+      "age" : 99,
+      "secretIdentity" : "Fuck OFF",
+      "powers" : [
+        "Developer",
+        "Cool",
+        "Incedent"
+      ]
+    },
+    {
+      "name" : "Bill Gates",
+      "age" : 33,
+      "secretIdentity" : "Microsoft",
+      "powers" : [
+        "CEO",
+        "Secretary"
+      ]
+    },
+    {
       "name" : "Eternal Flame",
       "age" : 1000000,
       "secretIdentity" : "Unknown",
